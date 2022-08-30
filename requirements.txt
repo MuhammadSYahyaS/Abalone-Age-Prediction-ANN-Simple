@@ -1,0 +1,11 @@
+ipywidgets>=7.0,<8.0
+jupyter
+matplotlib
+notebook
+numpy
+opencv-contrib-python
+pandas
+ray[tune,serve]
+scikit-learn
+tensorboard
+tqdm
