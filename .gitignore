@@ -1,6 +1,6 @@
 runs*/*
-!runs_clf/train_20220830_072958
-!runs_reg/train_20220830_075124
+!runs_clf/train_20230505_172340
+!runs_reg/train_20230505_173318
 
 # Editors
 .vscode/
