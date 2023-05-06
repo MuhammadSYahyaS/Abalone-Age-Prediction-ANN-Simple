@@ -4,3 +4,7 @@ matplotlib
 notebook
 numpy
 pandas
+scikit-learn
+tensorboard
+torch
+tqdm

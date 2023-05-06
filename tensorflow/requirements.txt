@@ -1,6 +1,12 @@
+h5py
 ipywidgets>=7.0,<8.0
 jupyter
 matplotlib
 notebook
 numpy
 pandas
+pyyaml
+scikit-learn
+tensorboard
+tensorflow>=2
+tqdm
