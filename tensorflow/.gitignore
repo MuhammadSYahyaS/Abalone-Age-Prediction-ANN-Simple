@@ -1,1 +1,3 @@
 runs*/*
+!runs_clf/train_20230506_183726
+!runs_reg/train_20230506_172658
